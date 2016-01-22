@@ -1,0 +1,20 @@
+Clustering:
+'Small_World': 0.6430312499999998
+
+{'Random Graph': 10.254982145538248, 'Small World': 9798.796807857581} {'Random_Graph': 0.0002954794062914199, 'Small_World': 0.6430312499999998} 
+Preferential Attachment:  2015-10-14 16:03:49.973000
+8145 24426
+{'Preferential Attachment': 4.212097590214687} {'Preferential Attachment': 0.005742386939612488}
+
+Arguments:  8145 2
+8145 16286
+{'Small World': 384.84363591630574, 'Preferential Attachment': 4.916809823423919} {'Preferential Attachment': 0.006344918175591768, 'Small_World': 0.0}
+
+Average path length:
+'Dataset': 5.556957876697047
+
+Clustering Coefficient:
+'Dataset': 0.027828294040180956
+
+For k = 4
+{'Small World': 17.02963782064038} {'Small_World': 0.4348048759098549}

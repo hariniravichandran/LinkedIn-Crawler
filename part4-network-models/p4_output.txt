@@ -1,0 +1,14 @@
+
+Average Path Length: 
+
+Dataset :	5.556957876697047	
+Random_Graph :	12.9916989834
+Small_World :	101.55536349394147
+Preferential_Attachment :	4.9441950357
+
+Clustering Coefficient: 
+
+Dataset :	0.027828294040180956
+Random_Graph :	0.0002496419071
+Small_World :	0.0
+Preferential_Attachment :	0.00604825523034
